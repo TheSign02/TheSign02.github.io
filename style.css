@@ -3,3 +3,10 @@ body {
     font-size: 3em;
     background-color: aquamarine;
 }
+
+button {
+    size: 2rem;
+    color: red;
+    background-color: white;
+    border: yellowgreen;
+}
