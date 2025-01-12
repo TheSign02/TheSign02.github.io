@@ -1,12 +1,12 @@
 body {
-    color: green;
+    color: #21294F;
     font-size: 3em;
-    background-color: aquamarine;
+    background-color: #E5943E;
 }
 
 button {
-    font-size: 1.5em;
-    color: red;
-    background-color: white;
-    border: yellowgreen;
+    font-size: 20px;
+    color: #E5943E;
+    background-color: #21294F;
+    border: #E5943E;
 }
