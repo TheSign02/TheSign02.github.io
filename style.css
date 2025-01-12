@@ -1,12 +1,12 @@
 body {
-    color: #21294F;
+    color: #E5943E;
     font-size: 3em;
-    background-color: #E5943E;
+    background-color: #21294F; 
 }
 
 button {
     font-size: 20px;
     color: #E5943E;
     background-color: #21294F;
-    border: #E5943E;
+    border: #E5943E 3px solid;
 }
