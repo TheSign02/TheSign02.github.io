@@ -10,3 +10,8 @@ button {
     background-color: #21294F;
     border: #E5943E 3px solid;
 }
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
