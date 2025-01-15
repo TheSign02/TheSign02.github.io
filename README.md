@@ -1,7 +1,7 @@
-first github code
+This is my first code published on GitHub
 =================
 
-sub-title
+What does it contain?
 ---------
 
 *this is the added content*
