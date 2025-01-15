@@ -10,6 +10,7 @@ button {
     background-color: #21294F;
     border: #E5943E 3px solid;
     margin: 10px 10px 10px 0;
+    transition: all 0.3s ease-in-out;
 }
 
 button:active {
@@ -29,7 +30,7 @@ nav button {
 }
 
 p {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
 }
 
