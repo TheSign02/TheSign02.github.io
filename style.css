@@ -24,6 +24,16 @@ button:hover {
     background-color: #E5943E;
 }
 
+button:disabled {
+    font-weight: bold;
+    color: #21294F;
+    background-color: #E5943E;
+}
+
+nav {
+    display: inline-flex;
+}
+
 nav button {
     padding: 10px;
     margin: 3px;
@@ -32,9 +42,5 @@ nav button {
 p {
     font-size: 30px;
     font-weight: bold;
-}
-
-nav {
-    display: inline-flex;
 }
 
