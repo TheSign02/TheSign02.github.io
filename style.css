@@ -30,6 +30,7 @@ button:disabled {
     color: #21294F;
     background-color: #E5943E;
     pointer-events: none;
+    cursor: default;
 }
 
 nav {
