@@ -11,6 +11,7 @@ button {
     border: #E5943E 3px solid;
     margin: 10px 10px 10px 0;
     transition: all 0.3s ease-in-out;
+    user-select: none;
 }
 
 button:active {
@@ -28,6 +29,7 @@ button:disabled {
     font-weight: bold;
     color: #21294F;
     background-color: #E5943E;
+    pointer-events: none;
 }
 
 nav {
