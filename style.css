@@ -12,6 +12,7 @@ button {
     margin: 10px 10px 10px 0;
     transition: all 0.3s ease-in-out;
     user-select: none;
+    cursor: hand;
 }
 
 button:active {
@@ -30,7 +31,7 @@ button:disabled {
     color: #21294F;
     background-color: #E5943E;
     pointer-events: none;
-    cursor: default;
+    cursor: default !important;
 }
 
 nav {
