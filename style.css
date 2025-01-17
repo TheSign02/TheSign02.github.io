@@ -1,6 +1,5 @@
 body {
     color: #E5943E;
-    font-size: 3em;
     background-color: #21294F; 
 }
 
@@ -15,11 +14,11 @@ button {
     cursor: hand;
 }
 
-button:active {
+/* button:active {
     position: relative;
     top: 3px;
     left: 2px;
-}
+} */
 
 button:hover {
     color: #21294F;
@@ -34,17 +33,23 @@ button:disabled {
     cursor: default !important;
 }
 
-nav {
-    display: inline-flex;
+.navbar {
+    display: flex;
+    width: 100%;
 }
 
-nav button {
-    padding: 10px;
-    margin: 3px;
+.navbar button {
+    display: block;
+    width: 100%;
+    padding: 14px 28px;
+    text-align: center;
+}
+
+.navbar a {
+    text-decoration: none;
 }
 
 p {
     font-size: 30px;
     font-weight: bold;
 }
-
