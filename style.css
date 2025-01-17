@@ -14,12 +14,6 @@ button {
     cursor: hand;
 }
 
-/* button:active {
-    position: relative;
-    top: 3px;
-    left: 2px;
-} */
-
 button:hover {
     color: #21294F;
     background-color: #E5943E;
