@@ -42,7 +42,6 @@ button:disabled {
 }
 
 main {
-    display: flexbox;
     text-align: center;
 }
 
