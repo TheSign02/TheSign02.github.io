@@ -6,4 +6,4 @@ What does it contain?
 
 *this is the added content*
 
-> my favorite quote
+> The harder we try to be alone, the more we realise we need people around us.
